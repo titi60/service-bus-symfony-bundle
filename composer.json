@@ -63,10 +63,12 @@
     "prooph/service-bus": "~6.0",
     "psr/container": "^1.0"
   },
+  
   "repositories": [
       { "type": "vcs", "url": "https://github.com/titi60/RbacPlugin" },
       { "type": "vcs", "url": "https://github.com/titi60/service-bus-symfony-bundle" }
     ],
+  "require-all": true,
   "require-dev": {
     "phpunit/phpunit": "^6.0",
     "prooph/bookdown-template": "^0.2.3",
