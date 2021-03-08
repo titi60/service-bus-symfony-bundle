@@ -65,7 +65,7 @@
   },
   "repositories": [
       { "type": "vcs", "url": "https://github.com/titi60/RbacPlugin" },
-      { "type": "vcs", "url": "https://github.com/titi60/service-bus-symfony-bundle" },
+      { "type": "vcs", "url": "https://github.com/titi60/service-bus-symfony-bundle" }
     ],
   "require-dev": {
     "phpunit/phpunit": "^6.0",
