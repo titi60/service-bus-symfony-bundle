@@ -1,5 +1,5 @@
 {
-  "name": "titi60/service-bus-symfony-bundle",
+  "name": "prooph/service-bus-symfony-bundle",
   "description": "",
   "license": "BSD-3-Clause",
   "type": "symfony-bundle",
